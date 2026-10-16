@@ -1,0 +1,17 @@
+{
+  "name": "cc-mod-input-wrap-repro",
+  "owner": {
+    "name": "bassic-nerd"
+  },
+  "plugins": [
+    {
+      "name": "cc-mod-input-wrap-repro",
+      "source": "./",
+      "author": {
+        "name": "bassic-nerd"
+      },
+      "description": "Repro: a focused Claude Code mod Input paints only the first wrapped row of a long value"
+    }
+  ],
+  "description": "Repro: a focused Claude Code mod Input paints only the first wrapped row of a long value"
+}

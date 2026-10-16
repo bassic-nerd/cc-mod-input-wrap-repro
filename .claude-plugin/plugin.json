@@ -1,0 +1,10 @@
+{
+  "name": "cc-mod-input-wrap-repro",
+  "version": "0.1.0",
+  "description": "Repro: a focused Claude Code mod Input paints only the first wrapped row of a long value",
+  "license": "MIT",
+  "author": {
+    "name": "bassic-nerd"
+  },
+  "repository": "https://github.com/bassic-nerd/cc-mod-input-wrap-repro"
+}
